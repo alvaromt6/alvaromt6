@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Álvaro Macías 👋</h1>
 
 <p align="center">
-Desarrollador de Software Junior | Java • Spring Boot • Angular • React
+Desarrollador Full Stack Java | Integración de IA y Automatización
 </p>
 
 ---
